@@ -1,2 +1,2 @@
 # PWA
-Programiranje web aplikacija projekt
+Programiranje web aplikacija projekt zavrsni projekt
